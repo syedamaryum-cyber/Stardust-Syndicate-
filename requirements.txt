@@ -1,4 +1,7 @@
 streamlit
-astropy
-matplotlib
 numpy
+Pillow
+matplotlib
+astropy
+astroquery
+reproject
